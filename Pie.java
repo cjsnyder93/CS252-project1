@@ -48,7 +48,9 @@ public class Pie {
 		baseColor = Color.red;
 		sliceColor = Color.green;
 	}
-	
+	/**New Comment
+	 * 
+	*/
 	
 	/**
 	 * Draw the pie on a graphics device
